@@ -1,5 +1,5 @@
 # Simple-Snake-Game
-python, turtle
+python, turtle.
 
 Simple snake game that shows current scrore and saves highscore.
 
